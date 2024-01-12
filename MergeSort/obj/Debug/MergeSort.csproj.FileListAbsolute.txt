@@ -1,0 +1,8 @@
+C:\Users\ganie\source\repos\yankibtw\AllSort\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\ganie\source\repos\yankibtw\AllSort\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\ganie\source\repos\yankibtw\AllSort\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\ganie\source\repos\yankibtw\AllSort\ConsoleApp1\obj\Debug\MergeSort.csproj.AssemblyReference.cache
+C:\Users\ganie\source\repos\yankibtw\AllSort\ConsoleApp1\obj\Debug\MergeSort.csproj.SuggestedBindingRedirects.cache
+C:\Users\ganie\source\repos\yankibtw\AllSort\ConsoleApp1\obj\Debug\MergeSort.csproj.CoreCompileInputs.cache
+C:\Users\ganie\source\repos\yankibtw\AllSort\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\ganie\source\repos\yankibtw\AllSort\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

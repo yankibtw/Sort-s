@@ -1,0 +1,8 @@
+C:\Users\ganie\source\repos\yankibtw\AllSort\ShellSort\bin\Debug\ShellSort.exe.config
+C:\Users\ganie\source\repos\yankibtw\AllSort\ShellSort\bin\Debug\ShellSort.exe
+C:\Users\ganie\source\repos\yankibtw\AllSort\ShellSort\bin\Debug\ShellSort.pdb
+C:\Users\ganie\source\repos\yankibtw\AllSort\ShellSort\obj\Debug\ShellSort.csproj.AssemblyReference.cache
+C:\Users\ganie\source\repos\yankibtw\AllSort\ShellSort\obj\Debug\ShellSort.csproj.SuggestedBindingRedirects.cache
+C:\Users\ganie\source\repos\yankibtw\AllSort\ShellSort\obj\Debug\ShellSort.csproj.CoreCompileInputs.cache
+C:\Users\ganie\source\repos\yankibtw\AllSort\ShellSort\obj\Debug\ShellSort.exe
+C:\Users\ganie\source\repos\yankibtw\AllSort\ShellSort\obj\Debug\ShellSort.pdb

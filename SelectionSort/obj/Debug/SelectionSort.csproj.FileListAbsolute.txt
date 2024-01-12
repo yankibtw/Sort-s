@@ -1,0 +1,8 @@
+C:\Users\ganie\source\repos\yankibtw\AllSort\SelectionSort\bin\Debug\SelectionSort.exe.config
+C:\Users\ganie\source\repos\yankibtw\AllSort\SelectionSort\bin\Debug\SelectionSort.exe
+C:\Users\ganie\source\repos\yankibtw\AllSort\SelectionSort\bin\Debug\SelectionSort.pdb
+C:\Users\ganie\source\repos\yankibtw\AllSort\SelectionSort\obj\Debug\SelectionSort.csproj.AssemblyReference.cache
+C:\Users\ganie\source\repos\yankibtw\AllSort\SelectionSort\obj\Debug\SelectionSort.csproj.SuggestedBindingRedirects.cache
+C:\Users\ganie\source\repos\yankibtw\AllSort\SelectionSort\obj\Debug\SelectionSort.csproj.CoreCompileInputs.cache
+C:\Users\ganie\source\repos\yankibtw\AllSort\SelectionSort\obj\Debug\SelectionSort.exe
+C:\Users\ganie\source\repos\yankibtw\AllSort\SelectionSort\obj\Debug\SelectionSort.pdb

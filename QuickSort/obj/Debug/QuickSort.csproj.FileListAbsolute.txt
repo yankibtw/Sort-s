@@ -1,0 +1,8 @@
+C:\Users\ganie\source\repos\yankibtw\AllSort\QuickSort\bin\Debug\QuickSort.exe.config
+C:\Users\ganie\source\repos\yankibtw\AllSort\QuickSort\bin\Debug\QuickSort.exe
+C:\Users\ganie\source\repos\yankibtw\AllSort\QuickSort\bin\Debug\QuickSort.pdb
+C:\Users\ganie\source\repos\yankibtw\AllSort\QuickSort\obj\Debug\QuickSort.csproj.AssemblyReference.cache
+C:\Users\ganie\source\repos\yankibtw\AllSort\QuickSort\obj\Debug\QuickSort.csproj.SuggestedBindingRedirects.cache
+C:\Users\ganie\source\repos\yankibtw\AllSort\QuickSort\obj\Debug\QuickSort.csproj.CoreCompileInputs.cache
+C:\Users\ganie\source\repos\yankibtw\AllSort\QuickSort\obj\Debug\QuickSort.exe
+C:\Users\ganie\source\repos\yankibtw\AllSort\QuickSort\obj\Debug\QuickSort.pdb

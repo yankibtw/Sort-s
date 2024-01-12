@@ -1,0 +1,8 @@
+C:\Users\ganie\source\repos\yankibtw\AllSort\CoctailSort\bin\Debug\CoctailSort.exe.config
+C:\Users\ganie\source\repos\yankibtw\AllSort\CoctailSort\bin\Debug\CoctailSort.exe
+C:\Users\ganie\source\repos\yankibtw\AllSort\CoctailSort\bin\Debug\CoctailSort.pdb
+C:\Users\ganie\source\repos\yankibtw\AllSort\CoctailSort\obj\Debug\CoctailSort.csproj.AssemblyReference.cache
+C:\Users\ganie\source\repos\yankibtw\AllSort\CoctailSort\obj\Debug\CoctailSort.csproj.SuggestedBindingRedirects.cache
+C:\Users\ganie\source\repos\yankibtw\AllSort\CoctailSort\obj\Debug\CoctailSort.csproj.CoreCompileInputs.cache
+C:\Users\ganie\source\repos\yankibtw\AllSort\CoctailSort\obj\Debug\CoctailSort.exe
+C:\Users\ganie\source\repos\yankibtw\AllSort\CoctailSort\obj\Debug\CoctailSort.pdb
